@@ -11,7 +11,7 @@ import Practical5 from './components/Practical5'
 import Practical6 from './components/Practical6'
 import Practical7 from './components/Practical7'
 // import Welcome from './components/welcome'
-
+import GymRepCounter from './components/GymRepCounter'
 
 
 function App() {
@@ -25,6 +25,8 @@ function App() {
       {/* <Practical5 /> */}
       {/* <Practical6 /> */}
       {/* <Practical7 /> */}
+      <GymRepCounter />
+
     </>
   )
 }
